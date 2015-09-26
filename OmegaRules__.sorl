@@ -1,0 +1,66 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2015/9/26
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.jquery.com
+*.fonts.googleapis.com
+*.sourcemod.net
+*.urlad.com.tw
+*.google-analytics.com
+*.telegram.org
+*.doubleclick.net
+*.gstatic.com
+*.google.com
+*.ytimg.com
+*.youtube.com
+*.googlevideo.com
+*.maps.googleapis.com
+*.googleusercontent.com
+*.ablenet.jp
+*.ensighten.com
+*.teamviewer.com
+*.google.co.jp
+*.steampowered.com
+*.akamaihd.net
+*.gamer.com.tw
+!*.qq.com
+*.wikimedia.org
+*.wide.ad.jp
+*.translate.googleapis.com
+*.apache.org
+*.github.com
+Keyword: github
+*.aspnetcdn.com
+*.msecnd.net
+*.yahoo.com
+*.nicovideo.jp
+!*.cqvip.com
+*.wikipedia.org
+*.gmail.com
+*.twimg.com
+*.fbcdn.net
+*.chartbeat.net
+*.adzerk.net
+*.parsely.com
+*.crowdynews.com
+*.flx1.com
+*.scorecardresearch.com
+*.edgesuite.net
+*.appledaily.com.tw
+*.gamemaps.com
+*.twitter.com
+*.googleapis.com
+*.ingress.com
+*.commondatastorage.googleapis.com
+*.ajax.googleapis.com
+*.youtu.be
+*.android.com
+*.telegram.me
+*.githubapp.com
+*.gravatar.com
+*.chrome.com
+*.2mdn.net
+*.youtube-nocookie.com
+*.ggpht.com
+*.facebook.com
