@@ -64,3 +64,4 @@ Keyword: github
 *.youtube-nocookie.com
 *.ggpht.com
 *.facebook.com
+!*.baidu.com
