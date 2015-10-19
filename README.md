@@ -8,3 +8,5 @@ A baka's SwitchyOmega
 在线更新地址（填到SwitchyOmega里面）：https://uuz.moe/download/proxy/OmegaRules.sorl
 
 Fu*k GFW
+
+划水一下
