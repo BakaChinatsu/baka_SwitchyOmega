@@ -3,6 +3,14 @@
 ; Date: 2015/10/29
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+;Wikipedia Start
+*.wikimedia.org
+*.wikipedia.org
+*.wikidata.org
+*.wikimediafoundation.org
+*.mediawiki.org
+*.*.wikipedia.org
+;END
 *.jquery.com
 *.fonts.googleapis.com
 *.sourcemod.net
@@ -25,7 +33,6 @@
 *.akamaihd.net
 *.gamer.com.tw
 !*.qq.com
-*.wikimedia.org
 *.wide.ad.jp
 *.translate.googleapis.com
 *.apache.org
@@ -36,7 +43,6 @@ Keyword: github
 *.yahoo.com
 *.nicovideo.jp
 !*.cqvip.com
-*.wikipedia.org
 *.gmail.com
 *.twimg.com
 *.fbcdn.net
