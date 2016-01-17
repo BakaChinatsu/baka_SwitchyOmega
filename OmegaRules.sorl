@@ -101,3 +101,5 @@
 *.mega.co.nz
 *.dmguo.org
 *.cloudflare.com
+!*.taobao.com
+!*.*.taobao.com
