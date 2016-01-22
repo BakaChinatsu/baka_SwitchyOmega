@@ -97,7 +97,7 @@
 *.codecademy.com
 *.segment.com
 *.segment.io
-*.s3.amazonaws.com
+*.*.amazonaws.com
 *.mega.co.nz
 *.dmguo.org
 *.cloudflare.com
