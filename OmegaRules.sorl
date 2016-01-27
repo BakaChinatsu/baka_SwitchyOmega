@@ -57,7 +57,7 @@
 *.twitter.com
 *.googleapis.com
 *.ingress.com
-*.commondatastorage.googleapis.com
+*.*.googleapis.com
 *.ajax.googleapis.com
 *.youtu.be
 *.android.com
