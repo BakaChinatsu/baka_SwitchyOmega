@@ -33,6 +33,7 @@
 *.akamaihd.net
 *.gamer.com.tw
 !*.qq.com
+!*.*.qq.com
 *.wide.ad.jp
 *.translate.googleapis.com
 *.apache.org
